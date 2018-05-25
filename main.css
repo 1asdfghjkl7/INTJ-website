@@ -1,0 +1,56 @@
+h1 {
+    background-color: paleturquoise;
+    text-align: center;
+    border: 1px solid paleturquoise;
+    border-radius: 10em;
+}
+h2{
+    background-color: paleturquoise;
+    text-align: center;
+    border: 1px solid paleturquoise;
+    border-radius: 10em;    
+}
+
+body {
+    background-color: #658E9C;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+div.heading {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: paleturquoise;
+    text-align: center;
+    width: 50em;
+    border: 10px solid mediumturquoise;
+    border-radius: 10em;
+}
+div.paragraphs {
+    background-color: mediumturquoise;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    width: 50em;
+    border: 10px solid paleturquoise;
+    border-radius: 1em;
+    padding: 5px;
+}
+
+#h1div {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: paleturquoise;
+    text-align: center;
+    width: 50em;
+    border: 10px solid paleturquoise;
+    border-radius: 10em;
+}
